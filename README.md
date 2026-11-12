@@ -1,6 +1,6 @@
 # Jonas Laux
 
-Software engineer in Vienna. I build AI agents that answer questions over data warehouses, and I ship most of my own code through coding agents.
+Software engineer in Vienna.
 
 ## Tools for agent-heavy work
 
